@@ -5,7 +5,7 @@
   "main": "src/Optibite.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Olatunji-tech/Optibite.git"
+    "url": "https://github.com/Olatunji-tech/optibite.git"
   },
   "keywords": [
     "lazyload",
