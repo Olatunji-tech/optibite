@@ -1,5 +1,5 @@
 {
-  "name": "Optibite",
+  "name": "optibite",
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for lazy-loading images and caching assets.",
   "main": "src/Optibite.js",
