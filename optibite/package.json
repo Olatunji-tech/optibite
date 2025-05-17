@@ -1,11 +1,25 @@
 {
   "name": "Optibite",
   "version": "1.0.0",
-  "description": "JavaScript library to optimize websites with lazy loading and caching.",
+  "description": "A lightweight JavaScript library for lazy-loading images and caching assets.",
   "main": "src/Optibite.js",
-  "scripts": {
-    "start": "npx serve public"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Olatunji-tech/Optibite.git"
   },
-  "author": "Dev Olatunji",
-  "license": "MIT"
+  "keywords": [
+    "lazyload",
+    "image",
+    "performance",
+    "cache",
+    "service-worker",
+    "optimizer"
+  ],
+  "author": "Dev Olatunji <mail.oladipupoisaactunji@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olatunji-tech/optibite/issues"
+  },
+  "homepage": "https://github.com/Olatunji-tech/optibite#readme"
 }
+
