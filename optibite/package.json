@@ -1,0 +1,11 @@
+{
+  "name": "Optibite",
+  "version": "1.0.0",
+  "description": "JavaScript library to optimize websites with lazy loading and caching.",
+  "main": "src/Optibite.js",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "author": "Dev Olatunji",
+  "license": "MIT"
+}
